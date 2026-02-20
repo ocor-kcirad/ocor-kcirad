@@ -1,6 +1,9 @@
 # 📱 Darick Roco | Android Engineer
 **Kotlin | Java | Clean Architecture Advocate**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dakoyroco-blue?logo=linkedin)](https://linkedin.com/in/dakoyroco) [![GitHub](https://img.shields.io/badge/GitHub-ocor--kcirad-blue?logo=github)](https://github.com/ocor-kcirad) [![Gmail](https://img.shields.io/badge/Gmail-dakoyroco@gmail.com-red?logo=gmail)](mailto:dakoyroco@gmail.com)
+
+
 I am an Android Engineer with over 9 years of experience specializing in building scalable, business-aligned mobile solutions. My expertise lies in leading legacy migrations—transitioning complex codebases from Java to Kotlin—and implementing modern architectures like MVVM and Clean Architecture to ensure long-term maintainability.
 
 Beyond mobile, I am a **Self-Hosted Systems Explorer** and a F.O.S.S. enthusiast. I am currently expanding my **AI skill set** to stay at the forefront of modern development workflows.
@@ -48,7 +51,3 @@ Beyond mobile, I am a **Self-Hosted Systems Explorer** and a F.O.S.S. enthusiast
 * **AI Integration:** Actively expanding my **AI skill set** to enhance development efficiency and modernize workflows.
 * **Open Source:** Passionate about F.O.S.S. (Free and Open Source Software).
 
-### 📬 Connect With Me
-* **LinkedIn:** [linkedin.com/in/darickroco](https://linkedin.com/in/darickroco)
-* **Email:** [dakoyroco@gmail.com](mailto:dakoyroco@gmail.com)
-* **Location:** Calamba, Philippines 🇵🇭
