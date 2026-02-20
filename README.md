@@ -1,4 +1,4 @@
-# 📱 Darick Roco | Android Engineer
+# 🛸 Darick Roco | 🤖 Android Engineer
 **Kotlin | Java | Clean Architecture Advocate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dakoyroco-blue?logo=linkedin)](https://linkedin.com/in/dakoyroco) [![GitHub](https://img.shields.io/badge/GitHub-ocor--kcirad-blue?logo=github)](https://github.com/ocor-kcirad) [![Gmail](https://img.shields.io/badge/Gmail-dakoyroco@gmail.com-red?logo=gmail)](mailto:dakoyroco@gmail.com)
@@ -31,14 +31,17 @@ Beyond mobile, I am a **Self-Hosted Systems Explorer** and a F.O.S.S. enthusiast
 
 ### 🏗️ Project Spotlights
 
-#### **[Resident App (Hmlet Pte. Ltd.)](projects/hmlet-resident-app-architecture.md)**
-* **Role:** [Android Engineer (Remote - Singapore)](https://github.com/hmlet-darick?tab=overview&from=2019-12-01&to=2019-12-31)
+#### **[Resident App (Hmlet Pte. Ltd.)](projects/hmlet-resident-app-architecture.md)**  
+[![GitHub](https://img.shields.io/badge/GitHub-hmlet--darick-blue?logo=github)](https://github.com/hmlet-darick?tab=overview&from=2019-12-01&to=2019-12-31)
+
+* **Role:** Android Engineer (Remote - Singapore) 
 * **The Challenge:** Transitioned a legacy Java system with high technical debt into a modern, reactive platform.
 * **The Solution:** Spearheaded the migration from Java to Kotlin and implemented MVVM and Clean Architecture principles to decouple business logic.
 * **Impact:** Engineered a robust CI pipeline that accelerated the development lifecycle and significantly reduced manual deployment errors.
 
 #### **[Scalable White-Label Ecosystem (Jet8 Pte. Ltd.)](projects/jet8-white-label-ecosystem.md)**
-* **Role:** [Android Engineer (Remote - Singapore)](https://github.com/CHH-Darick?tab=overview&from=2015-12-01&to=2015-12-31)
+[![GitHub](https://img.shields.io/badge/GitHub-chh--darick-blue?logo=github)](https://github.com/CHH-Darick?tab=overview&from=2015-12-01&to=2015-12-31)
+* **Role:** Android Engineer (Remote - Singapore)
 * **The Challenge:** Supporting multiple global brands from a single codebase while allowing for unique branding and feature sets.
 * **The Solution:** Architected a white-labeling system using **Gradle product flavors** and build variants for seamless brand-specific deployments.
 * **Impact:** Transitioned core apps to Kotlin and MVVM, creating a highly flexible and commercially scalable infrastructure.
