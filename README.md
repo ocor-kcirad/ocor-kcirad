@@ -28,13 +28,13 @@ Beyond mobile, I am a **Self-Hosted Systems Explorer** and a F.O.S.S. enthusiast
 
 ### 🏗️ Project Spotlights
 
-#### **[Resident App (Hmlet Pte. Ltd.)](https://github.com/ocor-kcirad/ocor-kcirad/blob/main/projects/hmlet-resident-app-architecture.md)**
+#### **[Resident App (Hmlet Pte. Ltd.)](projects/hmlet-resident-app-architecture.md)**
 * **Role:** Android Engineer (Remote - Singapore)
 * **The Challenge:** Transitioned a legacy Java system with high technical debt into a modern, reactive platform.
 * **The Solution:** Spearheaded the migration from Java to Kotlin and implemented MVVM and Clean Architecture principles to decouple business logic.
 * **Impact:** Engineered a robust CI pipeline that accelerated the development lifecycle and significantly reduced manual deployment errors.
 
-#### **[Scalable White-Label Ecosystem (Jet8 Pte. Ltd.)](https://github.com/ocor-kcirad/ocor-kcirad/blob/main/projects/jet8-white-label-ecosystem.md)**
+#### **[Scalable White-Label Ecosystem (Jet8 Pte. Ltd.)](projects/jet8-white-label-ecosystem.md)**
 * **Role:** Android Engineer (Remote - Singapore)
 * **The Challenge:** Supporting multiple global brands from a single codebase while allowing for unique branding and feature sets.
 * **The Solution:** Architected a white-labeling system using **Gradle product flavors** and build variants for seamless brand-specific deployments.
