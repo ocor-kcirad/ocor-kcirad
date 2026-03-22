@@ -8,12 +8,12 @@
 
 ### [REBOOT IN PROGRESS...]
 
-| Module | Status |
-| :--- | :--- |
-| 🎓 **Experience** | 9 years of Android runtime; currently clearing cache. |
-| 🛠️ **Current Thread** | Shifting from Java/Kotlin to **Rust** (memory safety is my new best friend). |
-| ⚡ **Objective** | Exploring the Open Source landscape. Got **24 extra hours**; looking for a place to **build.** |
-| 🏗️ **Homelab** | Idle in the closet, waiting for a new mission to heat up. |
+| |Module | Status |
+| :--- | :--- | :--- |
+| 🎓|**Experience** | 9 years of Android runtime; currently clearing cache. |
+| 🛠️|**Current Thread** | Shifting from Java/Kotlin to **Rust** (memory safety is my new best friend). |
+| ⚡|**Objective** | Exploring the Open Source landscape. Got **24 extra hours**; looking for a place to **build.** |
+| 🏗️|**Homelab** | Idle in the closet, waiting for a new mission to heat up. |
 
 ---
 
