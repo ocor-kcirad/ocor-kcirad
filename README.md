@@ -1,12 +1,19 @@
-# 🛸 Darick Roco | 🤖 Android Engineer
-**Kotlin | Java | Clean Architecture Advocate**
+# 🛸 Darick Roco | 🤖 Android Engineer 
+**Kotlin | Java | Clean Architecture Advocate | Aspiring Rustacean | Occasional Entrepreneur**
+ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dakoyroco-blue?logo=linkedin)](https://linkedin.com/in/dakoyroco) [![GitHub](https://img.shields.io/badge/GitHub-ocor--kcirad-blue?logo=github)](https://github.com/ocor-kcirad) [![Gmail](https://img.shields.io/badge/Gmail-dakoyroco@gmail.com-red?logo=gmail)](mailto:dakoyroco@gmail.com)
 
+*Spent a decade building mobile worlds, took a break to build a business, and now I’m back to build systems.*
 
-I am an Android Engineer with over 9 years of experience specializing in building scalable, business-aligned mobile solutions. My expertise lies in leading legacy migrations—transitioning complex codebases from Java to Kotlin—and implementing modern architectures like MVVM and Clean Architecture to ensure long-term maintainability.
+### [REBOOT IN PROGRESS...]
 
-Beyond mobile, I am a **Self-Hosted Systems Explorer** and a F.O.S.S. enthusiast. I am currently expanding my **AI skill set** to stay at the forefront of modern development workflows.
+| Module | Status |
+| :--- | :--- |
+| 🎓 **Experience** | 9 years of Android runtime; currently clearing cache. |
+| 🛠️ **Current Thread** | Shifting from Java/Kotlin to **Rust** (memory safety is my new best friend). |
+| ⚡ **Objective** | Exploring the Open Source landscape. Got **24 extra hours**; looking for a place to **build.** |
+| 🏗️ **Homelab** | Idle in the closet, waiting for a new mission to heat up. |
 
 ---
 
